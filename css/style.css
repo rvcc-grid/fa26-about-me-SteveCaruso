@@ -1,0 +1,27 @@
+body {
+    background-color: #9c7901;
+    color:#000;
+    font-family: Montserrat;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family:Isometra;
+    font-size:30pt;
+}
+
+header {
+    text-align:center;
+}
+
+/* The hero */
+#hero, footer {
+    text-align: center;
+    background-color: #474231;
+    color:white;
+    padding:10px;
+    border: 3px solid #242b5c;
+    border-radius:20px;
+}
+#hero img {
+    width:300px;
+}
